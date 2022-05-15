@@ -7,7 +7,7 @@ import java.sql.ResultSet;
 import java.sql.Statement; 
 
 public class Bill 
-{ //A common method to connect to the DB
+{ //A common method to connect to the DataBase
 		private Connection connect(){ 
 			
 						Connection con = null; 
